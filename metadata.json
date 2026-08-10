@@ -1,0 +1,6 @@
+{
+  "name": "A23 PRO",
+  "description": "Data Analysis, Backtesting & Market Predictions for A23 PRO",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
